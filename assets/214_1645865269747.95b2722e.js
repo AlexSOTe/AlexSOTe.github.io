@@ -1,0 +1,1 @@
+import{u as p}from"./222_1645865269747.b26555f0.js";import{c as t}from"./218_1645865269747.147180cd.js";t();const i=o=>o.stopPropagation();function f(o,a){(typeof o.cancelable!="boolean"||o.cancelable)&&o.preventDefault(),a&&i(o)}p();export{f as p};

@@ -1,0 +1,1 @@
+import{i as s,a}from"./218_1645865269747.147180cd.js";function o(e){if(s(e))return a(e)?`${e}px`:String(e)}function c(e){const t={};return e!==void 0&&(t.zIndex=+e),t}const i=/-(\w)/g,p=e=>e.replace(i,(t,r)=>r.toUpperCase()),f=e=>e.replace(/([A-Z])/g,"-$1").toLowerCase().replace(/^-/,"");export{o as a,p as c,c as g,f as k};
