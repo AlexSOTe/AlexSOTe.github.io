@@ -1,0 +1,1 @@
+import{n as l}from"./208_1646049679343.1651ae3e.js";import{e as p}from"./214_1646049679343.0c15135e.js";function a(o,{args:r=[],done:s,canceled:i}){if(o){const f=o.apply(null,r);p(f)?f.then(t=>{t?s():i&&i()}).catch(l):f?s():i&&i()}else s()}export{a as c};
