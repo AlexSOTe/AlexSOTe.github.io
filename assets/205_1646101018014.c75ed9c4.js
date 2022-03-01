@@ -1,1 +1,0 @@
-function r(){}const c=Object.assign,u=typeof window!="undefined";function a(e,s){const o=s.split(".");let n=e;return o.forEach(t=>{var i;n=(i=n[t])!=null?i:""}),n}function f(e,s,o){return s.reduce((n,t)=>((!o||e[t]!==void 0)&&(n[t]=e[t]),n),{})}export{c as e,a as g,u as i,r as n,f as p};

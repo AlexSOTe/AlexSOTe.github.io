@@ -1,1 +1,0 @@
-import{n as l}from"./221_1646106533728.4839a98d.js";import{e as p}from"./227_1646106533728.e0a33414.js";function a(o,{args:r=[],done:s,canceled:i}){if(o){const f=o.apply(null,r);p(f)?f.then(t=>{t?s():i&&i()}).catch(l):f?s():i&&i()}else s()}export{a as c};
