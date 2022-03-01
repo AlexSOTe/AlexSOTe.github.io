@@ -1,0 +1,1 @@
+import{d as r}from"./171_1646110219629.a9ce92d7.js";import{s as o}from"./172_1646110219629.59252326.js";import{a as d,r as i}from"./226_1646110219629.c05e65c1.js";const a=d("zh-CN"),e=i({"zh-CN":o}),m={messages(){return e[a.value]},use(s,t){a.value=s,this.add({[s]:t})},add(s={}){r(e,s)}};var u=m;export{m as L,u as s};
