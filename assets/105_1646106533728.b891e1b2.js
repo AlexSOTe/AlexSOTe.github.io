@@ -1,0 +1,1 @@
+import{w as t}from"./12_1646106533727.187383e5.js";/* empty css                          */import{_ as r}from"./108_1646106533728.4453d7d8.js";import{d as e,o as s,a as n}from"./99_1646106533728.fafcee2a.js";const p=e({setup(a){return(i,o)=>(s(),n("button",{class:"Menu",onClick:o[0]||(o[0]=t(()=>{},["stop"]))}))}});var d=r(p,[["__scopeId","data-v-58c13d99"]]);export{d as M};
