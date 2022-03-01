@@ -1,0 +1,1 @@
+import{u as a}from"./284_1646096953790.e276ecec.js";import{c as s}from"./99_1646096953790.2e68aba8.js";function u(o,t){const e=a(o);return r=>s("div",{class:t("placeholder"),style:{height:e.value?`${e.value}px`:void 0}},[r()])}export{u};
