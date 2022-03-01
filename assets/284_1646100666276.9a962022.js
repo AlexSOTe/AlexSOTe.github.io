@@ -1,0 +1,1 @@
+import{e as s}from"./214_1646100666276.3693f6d3.js";import{a as r}from"./225_1646100666276.c7ac1d51.js";import{g as i,n}from"./99_1646100666276.bd8cb57b.js";const h=o=>{const t=r(),e=()=>{t.value=s(o).height};return i(()=>{n(e),setTimeout(e,100)}),t};export{h as u};
