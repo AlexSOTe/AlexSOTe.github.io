@@ -1,1 +1,0 @@
-import{E as t}from"./305_1646215906088.07267039.js";const e=[{id:"0",title:t.HTML},{id:"1",title:t.CSS},{id:"2",title:t.JavaScript},{id:"3",title:t.VUE},{id:"4",title:t.ElementUI},{id:"5",title:t.Ubuntu}];export{e as s};

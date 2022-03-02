@@ -1,1 +1,0 @@
-function e(){return o().__VUE_DEVTOOLS_GLOBAL_HOOK__}function o(){return typeof navigator!="undefined"&&typeof window!="undefined"?window:typeof global!="undefined"?global:{}}const n=typeof Proxy=="function";export{o as a,e as g,n as i};
