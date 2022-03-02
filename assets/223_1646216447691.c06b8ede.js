@@ -1,1 +1,0 @@
-import{D as o}from"./99_1646216447691.16221a66.js";import{a as f}from"./226_1646216447691.ad238de2.js";function n(){const s=f([]),r=[];return o(()=>{s.value=[]}),[s,e=>(r[e]||(r[e]=t=>{s.value[e]=t}),r[e])]}export{n as u};

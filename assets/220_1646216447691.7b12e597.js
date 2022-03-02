@@ -1,1 +1,0 @@
-import{n as e,t as o,u as r}from"./207_1646216447691.060563d6.js";const a={show:Boolean,zIndex:e,overlay:o,duration:e,teleport:[String,Object],lockScroll:o,lazyRender:o,beforeClose:Function,overlayStyle:Object,overlayClass:r,transitionAppear:Boolean,closeOnClickOverlay:o},t=Object.keys(a);export{t as a,a as p};
