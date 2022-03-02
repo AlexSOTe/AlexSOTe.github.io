@@ -1,0 +1,1 @@
+import{a}from"./226_1646216447691.ad238de2.js";import{w as i}from"./99_1646216447691.16221a66.js";function u(t){const r=a(!1);return i(t,e=>{e&&(r.value=e)},{immediate:!0}),e=>()=>r.value?e():null}export{u};
