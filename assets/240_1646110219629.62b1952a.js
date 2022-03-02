@@ -1,1 +1,0 @@
-import{a}from"./226_1646110219629.c05e65c1.js";import{w as i}from"./99_1646110219629.fd9e5bed.js";function u(t){const r=a(!1);return i(t,e=>{e&&(r.value=e)},{immediate:!0}),e=>()=>r.value?e():null}export{u};
